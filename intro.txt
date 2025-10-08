@@ -1,3 +1,4 @@
+
 Giới thiệu cá nhân:
 Tôi là Nguyễn Thị Ngọc Diễm, sinh viên ngành CNTT.
 Hiện tại tôi đang học về lập trình và Git.
@@ -13,3 +14,9 @@ Kỹ năng:
 1. Giao tiếp.
 2. Làm việc nhóm.
 3. Lập trình cơ bản.
+Kế hoạch học tập:
+- Ôn lại kiến thức Git, GitHub.
+- Luyện tập thêm Python và HTML/CSS.
+- Làm dự án nhỏ hàng tuần để rèn kỹ năng.
+- Học thêm về JavaScript và React.
+- Cập nhật CV cá nhân mỗi khi học được điều mới.
