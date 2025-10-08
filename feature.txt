@@ -1,0 +1,6 @@
+Tính năng mới: Tự động chấm điểm Git bài thực hành.
+- Cho phép giáo viên kiểm tra repo của sinh viên.
+- Tính điểm dựa trên số commit và log hoạt động.
+- Cảnh báo nếu chưa push file quan trọng.
+- Tổng hợp kết quả qua giao diện web.
+- Xuất báo cáo PDF cuối kỳ.
